@@ -1,0 +1,12 @@
+5d50a49 (Ruby) Ruby
+dd8ed2d (Python) Python
+cd05289 (Pascal) Pascal
+832e4f1 (PHP) PHP
+7058519 (JavaScript) JavaScript
+1d5b05e (Java) Java
+67f8031 (GoLang) GoLang
+dc422b5 (C++) C++
+fe33d95 (C#) C#
+4744554 (C) C
+397add0 (HEAD -> master) Laborator-1
+
